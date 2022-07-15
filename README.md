@@ -1,4 +1,4 @@
-# ? ClownBot discord.py
+# ClownBot discord.py
 
 ## Requirements
 
@@ -14,15 +14,15 @@ __- discord-components 2.1.2__
 
 ---
 
-###Can you help the clown find the disk?
+### Can you help the clown find the disk?
 
 ![clown_game_presentation.png](https://cdn.discordapp.com/attachments/922054558790868993/997409493547753482/unknown.png)
 
-###Earn coins and spend them in the shop to buy skins
+### Earn coins and spend them in the shop to buy skins
 
 ![clown_shop](https://cdn.discordapp.com/attachments/922054558790868993/997411492632739900/unknown.png)
 
-###Then equip skins in inventory
+### Then equip skins in inventory
 
 ![clown_inventory](https://media.discordapp.net/attachments/922054558790868993/997412371456864306/unknown.png)
 
